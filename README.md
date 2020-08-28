@@ -6,8 +6,9 @@ MethylTransition is an R package (R version > 3.4) for characterizing the methyl
 # Installation
 
 ```R
-# install.packages("devtools") # run this commend if "devtools" is not installed
+# install.packages("devtools") # run this command if "devtools" is not installed
 devtools::install_github("ChengchenZhao/MethylTransition")
+library("MethylTransition")
 ```
 
 # Guidance
